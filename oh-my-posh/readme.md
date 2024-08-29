@@ -51,7 +51,7 @@ notepad $PROFILE
 
 Add the following to initialize oh-my-posh and configure pinktoepro as the theme:
 ```text
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/samuelbmarks/oh-my-posh-themes/main/pinktoe.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/samuelbmarks/dotfiles/main/oh-my-posh/pinktoe.omp.json' | Invoke-Expression
 ```
 
 Reload your profile for the changes to take effect: 
@@ -93,6 +93,6 @@ To configure the Windows Terminal to use the installed font, open the Windows Te
 
 Add the following to `~/.bashrc` to initialize oh-my-posh and configure pinktoepro as the theme:
 ```shell
-eval "$(oh-my-posh init bash --config https://raw.githubusercontent.com/samuelbmarks/oh-my-posh-themes/main/pinktoe.omp.json)"
+eval "$(oh-my-posh init bash --config https://raw.githubusercontent.com/samuelbmarks/dotfiles/main/oh-my-posh/pinktoe.omp.json)"
 ```
 Restart the shell for the changes to take effect.
