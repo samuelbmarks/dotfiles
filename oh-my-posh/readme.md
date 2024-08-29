@@ -4,25 +4,27 @@ Configuration and quickstart guide for [oh-my-posh](https://ohmyposh.dev/) using
 
 This will show you how to quickly install and get started using Oh My Posh for the following operating systems and tools:
 
-| Operating System | Shell                             | Terminal App (Preferred)  |
-|------------------|-----------------------------------|---------------------------|
-| Windows          | [Git Bash](#Windows-Git-Bash)     | Windows Terminal          |
-| Windows          | [PowerShell](#Windows-PowerShell) | Windows Terminal          |
-| MacOS            | [zsh](#MacOS-zsh )                | iTerm2                    |
-| MacOS            | [bash](#MacOS-bash)               | iTerm2                    |
+| Operating System | Shell                             | Terminal App (Preferred) |
+|------------------|-----------------------------------|--------------------------|
+| Windows          | [Git Bash](#Windows-Git-Bash)     | Windows Terminal         |
+| Windows          | [PowerShell](#Windows-PowerShell) | Windows Terminal         |
+| MacOS            | [zsh](#MacOS-zsh)                 | iTerm2                   |
+| MacOS            | [bash](#MacOS-bash)               | iTerm2                   |
 
 For full documentation, see the [Oh My Posh Docs](https://ohmyposh.dev/docs).
 
 ## Windows (PowerShell)
 
 ### Install Oh My Posh
+
 Install oh-my-posh with PowerShell:
 ```shell
 winget install JanDeDobbeleer.OhMyPosh -s winget
 ```
-NOTE: This will install oh-my-posh at `C:\Users\user\AppData\Local\Programs\oh-my-posh\bin`
+This will install oh-my-posh at `C:\Users\user\AppData\Local\Programs\oh-my-posh\bin`
 
-### Install a Nerd Font
+### Install a [Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+
 Install a nerd font (*meslo*) with oh-my-posh (PowerShell):
 ```shell
 oh-my-posh font install meslo
@@ -105,3 +107,11 @@ Add the following to `~/.bashrc` to initialize oh-my-posh and configure pinktoep
 eval "$(oh-my-posh init bash --config https://raw.githubusercontent.com/samuelbmarks/dotfiles/main/oh-my-posh/pinktoe.omp.json)"
 ```
 Restart the shell for the changes to take effect.
+
+## MacOS (zsh)
+
+More details to come.
+
+## MacOS (bash)
+
+More details to come.
