@@ -1,8 +1,17 @@
 # Oh My Posh
 
-Configuration and set-up guide for oh-my-posh.
+Configuration and quickstart guide for [oh-my-posh](https://ohmyposh.dev/) using my custom [pinktoepro](https://github.com/samuelbmarks/dotfiles/blob/main/oh-my-posh/pinktoepro.omp.json) theme.
 
-See full Oh My Posh docs [here](https://ohmyposh.dev/docs).
+This will show you how to quickly install and get started using Oh My Posh for the following operating systems and tools:
+
+| Operating System | Shell                             | Terminal App (Preferred)  |
+|------------------|-----------------------------------|---------------------------|
+| Windows          | [Git Bash](#Windows-Git-Bash)     | Windows Terminal          |
+| Windows          | [PowerShell](#Windows-PowerShell) | Windows Terminal          |
+| MacOS            | [zsh](#MacOS-zsh )                | iTerm2                    |
+| MacOS            | [bash](#MacOS-bash)               | iTerm2                    |
+
+For full documentation, see the [Oh My Posh Docs](https://ohmyposh.dev/docs).
 
 ## Windows (PowerShell)
 
