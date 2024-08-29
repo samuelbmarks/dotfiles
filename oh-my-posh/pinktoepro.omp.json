@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "blocks": [
+    {
+      "alignment": "left",
+      "segments": [
+        {
+          "foreground": "transparent",
+          "style": "plain",
+          "template": "<red>[x{{ reason .Code }}]</>",
+          "type": "status"
+        }
+      ],
+      "type": "prompt"
+    },
+    {
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "foreground": "transparent",
+          "style": "plain",
+          "template": "<green>{{ .UserName }}</> <white>@</> <magenta>{{ .HostName }}</> ",
+          "type": "session"
+        },
+        {
+          "foreground": "transparent",
+          "style": "plain",
+          "template": "<red>\uf0e7</> ",
+          "type": "root"
+        },
+        {
+          "foreground": "transparent",
+          "properties": {
+            "style": "full"
+          },
+          "style": "plain",
+          "template": "<white>-></> <cyan>\uf07b /{{ .Folder }}</> ",
+          "type": "path"
+        },
+        {
+          "foreground": "transparent",
+          "style": "plain",
+          "template": "<yellow>{{ .HEAD }} \u2191{{ .Ahead }} \u2193{{ .Behind }} +{{ .Working.Added }} ~{{ .Working.Modified }} -{{ .Working.Deleted }}</> ",
+          "type": "git"
+        }
+      ],
+      "type": "prompt"
+    }
+  ],
+  "transient_prompt": {
+    "background": "transparent",
+    "foreground": "transparent",
+    "template": "<green>[{{ .UserName }}]</> "
+  },
+  "final_space": false,
+  "version": 2
+}
