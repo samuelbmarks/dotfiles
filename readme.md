@@ -1,6 +1,6 @@
 # Dotfiles
 
-An inside look to my root directory (~).
+A sneak peek into my root directory (~).
 
 And a growing number configurations and quick start guides for most commonly used programs and tools across multiple machines and operating systems.
 
