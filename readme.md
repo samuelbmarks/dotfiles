@@ -7,28 +7,28 @@ And a growing number configurations and quick start guides for most commonly use
 Why not have everything in one (organized) place?
 
 **Tooling/framework docs** \
-[Spring Boot](https://docs.spring.io/spring-boot/index.html) \
-[Spring](https://docs.spring.io/spring-framework/reference/index.html) \
 [Docker](https://docs.docker.com/) \
+[Git](https://git-scm.com/docs) \
 [Kubernetes](https://kubernetes.io/docs/home/) \
 [NextJS](https://nextjs.org/docs) \
 [npm](https://docs.npmjs.com) \
-[Git](https://git-scm.com/docs) \
+[Spring Boot](https://docs.spring.io/spring-boot/index.html) \
+[Spring](https://docs.spring.io/spring-framework/reference/index.html) \
 [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
 **Style guides** \
-[Java](https://google.github.io/styleguide/javaguide.html) \
-[Typescript](https://google.github.io/styleguide/javaguide.html) \
-[Javascript](https://google.github.io/styleguide/jsguide.html) \
 [HTML/CSS](https://google.github.io/styleguide/htmlcssguide.html) \
-[Markdown](https://google.github.io/styleguide/docguide/style.html) \
+[Java](https://google.github.io/styleguide/javaguide.html) \
+[Javascript](https://google.github.io/styleguide/jsguide.html) \
 [JSON](https://google.github.io/styleguide/jsoncstyleguide.xml) \
+[Markdown](https://google.github.io/styleguide/docguide/style.html) \
 [Python](https://google.github.io/styleguide/pyguide.html) \
 [Shell](https://google.github.io/styleguide/shellguide.html)
+[Typescript](https://google.github.io/styleguide/javaguide.html) \
 
 **Cheatsheets** \
-[Markdown](https://www.markdownguide.org/cheat-sheet) \
 [Git](https://training.github.com/downloads/github-git-cheat-sheet) \
+[Markdown](https://www.markdownguide.org/cheat-sheet) \
 [Regex](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet) \
 [SQL](https://www.geeksforgeeks.org/sql-cheat-sheet)
 
@@ -38,8 +38,8 @@ Why not have everything in one (organized) place?
 [PyPi](https://pypi.org)
 
 **Web utils** \
-[JWT Decoder](https://jwt.io) \
+[Base64 Decoder](https://www.jstoolset.com/base64-decode) \
+[Base64 Encoder](https://www.jstoolset.com/base64-encode) \
 [Json Formatter](https://www.jstoolset.com/json-formatter) \
-[Base64 Encode](https://www.jstoolset.com/base64-encode) \
-[Base64 Decode](https://www.jstoolset.com/base64-decode) \
+[JWT Decoder](https://jwt.io) \
 [Regex101](https://regex101.com)
