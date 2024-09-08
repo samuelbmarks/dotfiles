@@ -1,0 +1,18 @@
+# ignore everything and explicitly add below
+*
+
+# shared .gitignore file
+!.gitignore
+
+# project readme
+!readme.md
+
+#  zsh files
+!.zshrc
+!.zshenv
+
+# oh-my-posh
+!oh-my-posh/**
+
+# npm
+!.npmrc
