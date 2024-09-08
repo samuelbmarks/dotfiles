@@ -23,8 +23,8 @@ Why not have everything in one (organized) place?
 [JSON](https://google.github.io/styleguide/jsoncstyleguide.xml) \
 [Markdown](https://google.github.io/styleguide/docguide/style.html) \
 [Python](https://google.github.io/styleguide/pyguide.html) \
-[Shell](https://google.github.io/styleguide/shellguide.html)
-[Typescript](https://google.github.io/styleguide/javaguide.html) \
+[Shell](https://google.github.io/styleguide/shellguide.html) \
+[Typescript](https://google.github.io/styleguide/javaguide.html)
 
 **Cheatsheets** \
 [Git](https://training.github.com/downloads/github-git-cheat-sheet) \
